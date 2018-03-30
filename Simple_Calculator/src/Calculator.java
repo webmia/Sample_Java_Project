@@ -1,4 +1,5 @@
-
+//개발자: 강정임
+//Simple Calculator ver1 개발프로젝트 시작
 public class Calculator {
 
 	public static void main(String[] args) {
