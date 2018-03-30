@@ -7,6 +7,7 @@ public class Calculator {
 		// TODO Auto-generated method stub
 		System.out.println("Calculator is initialized..");
 		System.out.println("Hi Java?//");
+		System.out.println("Calculator is initialized..");
 	}
 
 }
