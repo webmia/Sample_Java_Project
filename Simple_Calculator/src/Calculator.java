@@ -1,4 +1,4 @@
-//개발자: 강정임, 안동오
+//개발자: 강정임, 안동오, 아무말
 //Simple Calculator ver1 개발프로젝트 시작
 public class Calculator {
 
